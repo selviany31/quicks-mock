@@ -46,7 +46,7 @@
                 "participant": "Obaidullah Amarkhil",
                 "message": "Morning. I’ll try to do them. Thanks",
                 "time": "Fri Jun 07 2024 13:24:18",
-                "isRead": 1,
+                "isRead": 0,
                 "reply":"Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary."
             }
         },
@@ -68,7 +68,7 @@
                 "participant": "You",
                 "message": "Hi, I need help with something can you help me ?",
                 "time": "Fri Jun 07 2024 13:24:18",
-                "isRead": 1,
+                "isRead": 0,
                 "reply":""
             }
         }
@@ -76,153 +76,157 @@
      "chats": [
         {
             "inboxId": 1,
-            "title": "109220-Naturalization",
-            "participants": "3 Participants",
-            "id": "1goll9rs0029f603636bd1f",
-            "participant": "Mary Hilda",
-            "message": "Just Fill me in for his updates yea?",
-            "time": "Thu Jun 06 2024 13:24:15",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 1,
-            "title": "109220-Naturalization",
-            "participants": "3 Participants",
-            "id": "1goll9rse09b33f565e838a",
-            "participant": "You",
-            "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
-            "time": "Thu Jun 06 2024 13:24:16",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 1,
-            "title": "109220-Naturalization",
-            "participants": "3 Participants",
-            "id": "1goll9rui0231c989fdb40f",
-            "participant": "Mary Hilda",
-            "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
-            "time": "Fri Jun 07 2024 13:24:15",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 1,
-            "title": "109220-Naturalization",
-            "participants": "3 Participants",
-            "id": "1goll9s2904e6d75deb9dae",
-            "participant": "You",
-            "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
-            "time": "Fri Jun 07 2024 13:24:16",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 1,
-            "title": "109220-Naturalization",
-            "participants": "3 Participants",
-            "id": "1goll9s2i085caa52e3adb3",
-            "participant": "Mary Hilda",
-            "message": "Sure thing, Claren",
-            "time": "Fri Jun 07 2024 13:24:17",
-            "isRead": 1
-        },
-        {
-            "inboxId": 1,
-            "id": "1goll9s2i085caa52e3adb4",
-            "participant": "Obaidullah Amarkhil",
-            "message": "Morning. I’ll try to do them. Thanks",
-            "time": "Fri Jun 07 2024 13:24:18",
-            "isRead": 0,
-            "reply":"Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary."
-        },
-        {
-            "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9rs0029f603636bd1f",
-            "participant": "Mary Hilda",
-            "message": "Just Fill me in for his updates yea?",
-            "time": "Thu Jun 06 2024 13:24:15",
-            "isRead": 1,
-            "reply":""
+            "messages": 
+                [
+                    {
+                    "title": "109220-Naturalization",
+                    "participants": "3 Participants",
+                    "id": "1goll9rs0029f603636bd1f",
+                    "participant": "Mary Hilda",
+                    "message": "Just Fill me in for his updates yea?",
+                    "time": "Thu Jun 06 2024 13:24:15",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "109220-Naturalization",
+                    "participants": "3 Participants",
+                    "id": "1goll9rse09b33f565e838a",
+                    "participant": "You",
+                    "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+                    "time": "Thu Jun 06 2024 13:24:16",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "109220-Naturalization",
+                    "participants": "3 Participants",
+                    "id": "1goll9rui0231c989fdb40f",
+                    "participant": "Mary Hilda",
+                    "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                    "time": "Fri Jun 07 2024 13:24:15",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "109220-Naturalization",
+                    "participants": "3 Participants",
+                    "id": "1goll9s2904e6d75deb9dae",
+                    "participant": "You",
+                    "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+                    "time": "Fri Jun 07 2024 13:24:16",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "109220-Naturalization",
+                    "participants": "3 Participants",
+                    "id": "1goll9s2i085caa52e3adb3",
+                    "participant": "Mary Hilda",
+                    "message": "Sure thing, Claren",
+                    "time": "Fri Jun 07 2024 13:24:17",
+                    "isRead": 1
+                },
+                {
+                    "id": "1goll9s2i085caa52e3adb4",
+                    "participant": "Obaidullah Amarkhil",
+                    "message": "Morning. I’ll try to do them. Thanks",
+                    "time": "Fri Jun 07 2024 13:24:18",
+                    "isRead": 0,
+                    "reply":"Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary."
+                }
+            ]
         },
         {
             "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9rse09b33f565e838a",
-            "participant": "You",
-            "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
-            "time": "Thu Jun 06 2024 13:24:16",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9rui0231c989fdb40f",
-            "participant": "Mary Hilda",
-            "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
-            "time": "Fri Jun 07 2024 13:24:15",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9s2904e6d75deb9dae",
-            "participant": "You",
-            "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
-            "time": "Fri Jun 07 2024 13:24:16",
-            "isRead": 1,
-            "reply":""
-        },
-        {
-            "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9s2i085caa52e3adb3",
-            "participant": "Mary Hilda",
-            "message": "Sure thing, Claren",
-            "time": "Fri Jun 07 2024 13:24:17",
-            "isRead": 1
-        },
-        {
-            "inboxId": 2,
-            "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
-            "participants": "3 Participants",
-            "id": "1goll9s2i085caa52e3adb4",
-            "participant": "Obaidullah Amarkhil",
-            "message": "Morning. I’ll try to do them. Thanks",
-            "time": "Fri Jun 07 2024 13:24:18",
-            "isRead": 1,
-            "reply":""
+            "messages": [
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9rs0029f603636bd1f",
+                    "participant": "Mary Hilda",
+                    "message": "Just Fill me in for his updates yea?",
+                    "time": "Thu Jun 06 2024 13:24:15",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9rse09b33f565e838a",
+                    "participant": "You",
+                    "message": "No worries. It will be completed ASAP. I’ve asked him yesterday.",
+                    "time": "Thu Jun 06 2024 13:24:16",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9rui0231c989fdb40f",
+                    "participant": "Mary Hilda",
+                    "message": "Hello Obaidullah, I will be your case advisor for case #029290. I have assigned some homework for you to fill. Please keep up with the due dates. Should you have any questions, you can message me anytime. Thanks.",
+                    "time": "Fri Jun 07 2024 13:24:15",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9s2904e6d75deb9dae",
+                    "participant": "You",
+                    "message": "Please contact Mary for questions regarding the case bcs she will be managing your forms from now on! Thanks Mary.",
+                    "time": "Fri Jun 07 2024 13:24:16",
+                    "isRead": 1,
+                    "reply":""
+                },
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9s2i085caa52e3adb3",
+                    "participant": "Mary Hilda",
+                    "message": "Sure thing, Claren",
+                    "time": "Fri Jun 07 2024 13:24:17",
+                    "isRead": 1
+                },
+                {
+                    "title": "Jeannette Moraima Guaman Chamba (Hutto I-589) [ Hutto Follow Up - Brief Service ]",
+                    "participants": "3 Participants",
+                    "id": "1goll9s2i085caa52e3adb4",
+                    "participant": "Obaidullah Amarkhil",
+                    "message": "Morning. I’ll try to do them. Thanks",
+                    "time": "Fri Jun 07 2024 13:24:18",
+                    "isRead": 0,
+                    "reply":""
+                }
+            ]
         },
         {
             "inboxId": 3,
-            "title": "FastVisa Support",
-            "participants":"",
-            "id": "1goll9s2i085caa52e3adb3",
-            "participant": "FastVisa Support",
-            "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
-            "time": "Fri Jun 07 2024 13:24:17",
-            "isRead": 1
-        },
-        {
-            "inboxId": 3,
-            "title": "FastVisa Support",
-            "participants":"",
-            "id": "1goll9s2i085caa52e3adb4",
-            "participant": "You",
-            "message": "Hi, I need help with something can you help me ?",
-            "time": "Fri Jun 07 2024 13:24:18",
-            "isRead": 1,
-            "reply":""
+            "messages": [
+                {
+                    "title": "FastVisa Support",
+                    "participants":"",
+                    "id": "1goll9s2i085caa52e3adb3",
+                    "participant": "FastVisa Support",
+                    "message": "Hey there. Welcome to your inbox! Contact us for more information and help about anything! We’ll send you a response as soon as possible.",
+                    "time": "Fri Jun 07 2024 13:24:17",
+                    "isRead": 1
+                },
+                {
+                    "title": "FastVisa Support",
+                    "participants":"",
+                    "id": "1goll9s2i085caa52e3adb4",
+                    "participant": "You",
+                    "message": "Hi, I need help with something can you help me ?",
+                    "time": "Fri Jun 07 2024 13:24:18",
+                    "isRead": 0,
+                    "reply":""
+                }
+            ]
         }
+        
+        
     ],
     "todo": [
       {
